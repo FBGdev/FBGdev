@@ -15,10 +15,10 @@
 <h3 align="left">💻 Sobre mim</h3>
 
 - 🚀 Projetos em andamento:
-  -  [![HelpDesk-System](https://img.shields.io/badge/HelpDesk-In%20progress-darkred?style=flat-square)](https://github.com/tenmenezes/HelpDesk-System/)
-  -  [![Nexus SixTech](https://img.shields.io/badge/Nexus%20SixTech-Complete-darkgreen?style=flat-square)](https://github.com/tenmenezes/Nexus_SixTech/)
+  -  [![Suporte-Tech](https://img.shields.io/badge/Suporte-Tech%20progress-darkred?style=flat-square)](https://github.com/FGBdev/Suporte-Tech/)
+  -  [![Zapp-Project](https://img.shields.io/badge/Nexus%20SixTech-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/Zapp-Project/)
 
-- 🎓 Atualmente aprendendo **Java**
+- 🎓 Atualmente aprendendo **Python/Django**
   
 - 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
   
