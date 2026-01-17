@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=FBGdev&label=Profile%20views&color=0e75b6&style=flat" alt="FBGdev" /> 
   <img src="https://img.shields.io/github/followers/FBGdev?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/FBGdev?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/languages/top/FBGdev/Brandify?style=flat&color=yellow" />
-  <img src="https://img.shields.io/github/languages/top/FBGdev/SystemCheck?style=flat&color=blue" />
-  <img src="https://img.shields.io/github/languages/top/FBGdev/Project-Xadrez-Console?style=flat&color=purple" />
+  <img src="https://img.shields.io/github/languages/top/FBGdev/Suporte-Tech?style=flat&color=yellow" />
+  <img src="https://img.shields.io/github/languages/top/FBGdev/Virus?style=flat&color=blue" />
+  <img src="https://img.shields.io/github/languages/top/FBGdev/Zapp-Project?style=flat&color=purple" />
 </p>
 
 ---
