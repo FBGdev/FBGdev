@@ -16,11 +16,11 @@
 
 - 🚀 Projetos em andamento:
   -  [![Suporte-Tech](https://img.shields.io/badge/Suporte%20-progress-darkred?style=flat-square)](https://github.com/FGBdev/Suporte-Tech/)
-  -  [![Zapp-Project](https://img.shields.io/badge/Zapp%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/Zapp-Project/)
+  -  [![Zapp-Project](https://img.shields.io/badge/Zapp%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/ZAPP/)
 
 - 🎓 Atualmente aprendendo **Python/Django**
   
-- 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://tenmenezes.github.io)**
+- 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO]([https://portifolio-fabiano.vercel.app/])**
   
 - ❓ Pergunte-me sobre **Lógca de Programação / Linux / Git**
 
