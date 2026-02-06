@@ -17,7 +17,7 @@
 - 🚀 Projetos em andamento:
   -  [![Educa+](https://img.shields.io/badge/Educa+%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/EducaMAIS)
   -  [![UPSuporte](https://img.shields.io/badge/UPSuporte%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/UP-Suporte)
-  -  [![Zapp-Project](https://img.shields.io/badge/Zapp%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/ZAPP/)
+  -  [![Zapp](https://img.shields.io/badge/Zapp%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/ZAPP-DJANGO)
 
 - 🎓 Atualmente aprendendo **Python/Django**
   
