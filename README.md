@@ -1,64 +1,45 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FBGdev/FBGdev/main/Fabiano Logo.png" width="600" alt="Banner de Fabiano Gonçalves" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FBGdev&label=Profile%20views&color=0e75b6&style=flat" alt="FBGdev" /> 
-  <img src="https://img.shields.io/github/followers/FBGdev?label=Followers&style=flat&color=4c1" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/FBGdev?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/languages/top/FBGdev/Suporte-Tech?style=flat&color=yellow" />
-  <img src="https://img.shields.io/github/languages/top/FBGdev/Virus?style=flat&color=blue" />
-  <img src="https://img.shields.io/github/languages/top/FBGdev/Zapp-Project?style=flat&color=purple" />
-</p>
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
----
+<br/>
 
-<h3 align="left">💻 Sobre mim</h3>
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
 
-- 🚀 Projetos em andamento:
-  -  [![Educa+](https://img.shields.io/badge/Educa+%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/EducaMAIS)
-  -  [![UPSuporte](https://img.shields.io/badge/UPSuporte%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/UP-Suporte)
-  -  [![Zapp](https://img.shields.io/badge/Zapp%20-Complete-darkgreen?style=flat-square)](https://github.com/FBGdev/ZAPP-DJANGO)
+<br/>
 
-- 🎓 Atualmente aprendendo **Python/Django**
-  
-- 🌐 Todos os meus projetos estão disponíveis em meu **[PORTFÓLIO](https://portifolio-fabiano.vercel.app/)**
-  
-- ❓ Pergunte-me sobre **Lógca de Programação / Linux / Git**
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
 
-- 🧠 Curiosidade:
-  - Linus Torvalds, criador do Linux, em 2005 **desenvolveu em poucos dias o Git**, hoje o sistema de versionamento **mais utilizado no mundo**.
-  - A motivação surgiu quando o **BitKeeper**, ferramenta usada no **desenvolvimento do kernel Linux**, deixou de ser gratuito para a comunidade, forçando a criação de uma     alternativa rápida, distribuída e eficiente.
-  
----
-  
-<h3 align="center"> 🌐 Conecte-se comigo</h3>
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/fabianodev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+Building tools that make developers' lives easier.
+Passionate about distributed systems, developer experience, and the open-source ecosystem.
+
+**Currently at** Stellar Labs — San Francisco, CA
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:fabianodev@yahoo.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="mailto:fabianodev@yahoo.com?subject=Olá Fabiano! Te achei pelo GitHub!" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://www.linkedin.com/in/fabianodev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-<h3 align="center"> ⚒️ Linguagens e Ferramentas</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,python,mysql,linux,git,visualstudio,vscode,django" />
-</p>
-
----
-![Pacman Graph Dark](https://raw.githubusercontent.com/tenmenezes/tenmenezes/output/pacman-contribution-graph-dark.svg)
----
-<h3 align="center">📊 Estatísticas</h3>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenmenezes&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenmenezes&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000" height="165"/>
-</p> -->
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FBGdev&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A00000&height=120&section=footer"/>
+</div>
