@@ -23,7 +23,7 @@
 <br/>
 
 <details>
-<summary><strong>More about me</strong></summary>
+<summary><strong>Mais Sobre Mim</strong></summary>
 
 <br/>
 
