@@ -42,7 +42,7 @@ Meu objetivo é crescer como desenvolvedor, participar de projetos relevantes e 
 **Atualmente estudando** — Análise e Desenvolvimento de Sistemas (ADS)
 
 
-**Currently at**  Rio de Janeiro, Brasil
+**Atualmente em**  Rio de Janeiro, Brasil
 </details>
 
 <br/>
